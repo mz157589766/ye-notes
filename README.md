@@ -1,4 +1,4 @@
-<h1 align="center">vdoing-template</h1>
+<h1 align="center">ye-notes</h1>
 
 
 <div align="center">

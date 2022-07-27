@@ -4,9 +4,9 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "vdoing-ye",
-  description: 'vdoing博客主题模板',
-  base: '/vdoing-ye/', // 格式：'/<仓库名>/'， 默认'/'
+  title: "ye-notes",
+  description: 'ye-notes博客',
+  base: '/ye-notes/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
@@ -25,10 +25,10 @@ module.exports = {
         needComments: true,
         // 其他的 Vssue 配置
         autoCreateIssue: true,
-        clientId: "adb9fb0ac1159e00ce7f",
-        clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-        owner: "eryajf",
-        repo: "vdoing-ye",
+        clientId: "9008cb6bbd4a93865c55",
+        clientSecret: "9a4dafe0efa07f5c4e3d609cc3d1e5716d70fd2c",
+        owner: "mz157589766",
+        repo: "ye-notes",
       },
     ],
     // 增强 markdown
