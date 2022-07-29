@@ -1,12 +1,12 @@
 // head
 module.exports = [
   // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
-  ['link', { rel: 'icon', href: 'https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132133.ico' }], //favicons，资源放在public文件夹
+  ['link', { rel: 'icon', href: 'http://ypyun.ye2zy.work/1486071326-blogger-blog-blogspot-multimedia-media-internet-chating-message_79310.ico' }], //favicons，资源放在public文件夹
   [
     'meta',
     {
       name: 'keywords',
-      content: '二丫讲梵,golang,vue,go-web,go-admin,go-ldap-admin',
+      content: '胤然胤然',
     },
   ],
   // ['meta', { name: 'baidu-site-verification', content: 'code-LTKHwOecxI' }], // 百度统计的站长验证
